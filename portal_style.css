@@ -440,3 +440,17 @@ a {
         padding: 20px;
     }
 }
+
+/* 追加されたモニター価格バッジのスタイル */
+.monitor-badge {
+    display: inline-block;
+    background: linear-gradient(135deg, #c29d5b 0%, #a98342 100%);
+    color: #fff;
+    font-size: 0.95rem;
+    font-weight: 600;
+    padding: 6px 18px;
+    border-radius: 6px;
+    margin: 10px 0;
+    letter-spacing: 0.08em;
+    box-shadow: 0 4px 10px rgba(194, 157, 91, 0.2);
+}
